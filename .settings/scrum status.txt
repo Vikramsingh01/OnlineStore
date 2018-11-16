@@ -1,0 +1,27 @@
+~11/29/2017
+yesterday tested vcli-122
+today looking into automation stuff 
+no impediments 
+~11/30/2017
+yesterday I worked on client profile automation script
+today i am countinue with automation of  client password and client incentives
+no blocker
+~12/30/2017
+yesterday i worked on automation script of attendence 
+and i am countinue with the same today.
+no blocker
+12/04/2017
+last friday i completed the attendence absence automation script
+and today i am working on Attendance Check-In and Check-Out feature for HMP Berwyn
+and no impediments
+12/05/2017
+yesterday i fixed attendence check in and check out automation script  
+and today i am working on client qualification script
+and no impediments
+today i created a spread sheet which contains the status of all automation script for hmp berwyn 
+06/12/2017
+yesterday i worked on client qualification and today i am working on client qualification 
+No impediments.
+14/12/2017
+yesterday i tested ticket 674 it is about client allocation removal.and today i m working with the same ticket as well as on automation part for berwyn
+ 
